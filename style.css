@@ -1,0 +1,40 @@
+.heading{
+    font-size: 48px;
+    border-color: black;
+    border-width:5px;
+    border-radius: 40px;
+    letter-spacing: 10px;
+    margin-top: 30px;
+    }
+    span{
+    font-size: 80px;
+    
+    }
+    body{
+    background-color: palevioletred;
+    
+    }
+    #camera,#snapshotresult{
+    border:5px dotted darkblue ;
+    height : 300px;
+    width : 400px;
+    }
+    
+    label{
+        font-size: 14px;
+        color: darkcyan;
+        background-color: cornsilk;
+        border-radius:10px;
+        padding:6px;
+    }
+    
+    .emotion1,.emotion2{
+    font-size: 40px;
+    
+    }
+    
+    .emoji1,.emoji2{
+        font-size: 48px;
+    }
+    
+    
